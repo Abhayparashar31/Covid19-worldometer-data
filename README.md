@@ -43,21 +43,23 @@ pip install requests
 Now you are good to go
 
 ## Running the Code
-
+```
 1.open terminal
 2.target the cmd to your installed folder
 3.Type python covid19.py
 4.In the output you will see Nothing
 5.In the folder dir there is an file create results.csv
 6.open it here all the data is stored as a table.
-
+```
 ## Deployment
-
+```
 you just need to have python with Beautifulsoup and requests module install.... you are ready to run it..
-
+```
 ## Versioning
-
+```
 python:3.8
+
+```
 
 
 ## Authors
