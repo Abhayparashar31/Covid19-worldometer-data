@@ -1,6 +1,25 @@
-# Covid19 worldometer data scraper
-
 It scrape the whole table of data from worldometer covid 19 page.
+
+<br />
+<p align="center">
+  <a href="https://github.com/github_Abhayparashar/Shoemate">
+    <img src="img/profile.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Covid19 worldometer data scraper</h3>
+Scrape the covid19 data from the web and saves it in a text file also send desktop notification of indian data....
+  <p align="center">
+ 
+    <br />
+    <a href="https://github.com/Abhayparashar31/Covid19-worldometer-data/"><strong>Explore the Project »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.youtube.com/watch?v=kKBlHq3PCiQ">View Demo</a>
+    ·
+    <a>Report Bug -> parasharabhay13@gmail.com</a>
+    
+  </p>
+</p>
 
 ## Getting Started
 
@@ -41,6 +60,7 @@ you just need to have python with Beautifulsoup and requests module install.... 
 ## Versioning
 
 python:3.8
+
 
 ## Authors
 
