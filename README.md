@@ -1,22 +1,20 @@
-It scrape the whole table of data from worldometer covid 19 page.
-
 <br />
 <p align="center">
-  <a href="https://github.com/github_Abhayparashar/Shoemate">
+  <a href="https://github.com/github_Abhayparashar/Covid19-worldometer-data">
     <img src="images/profile.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Covid19 worldometer data scraper</h3>
-Scrape the covid19 data from the web and saves it in a text file also send desktop notification of indian data....
+
   <p align="center">
- 
+    Scrape the covid19 data from the web and saves it in a text file also send desktop notification of indian data....
     <br />
-    <a href="https://github.com/Abhayparashar31/Covid19-worldometer-data/"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/github_Abhayparashar/Covid19-worldometer-data"><strong>Explore the Project »</strong></a>
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=kKBlHq3PCiQ">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=kKBlHq3PCiQ">View Web Demo</a>
     ·
-    <a>Report Bug -> parasharabhay13@gmail.com</a>
+    <a>Report Bug :: parasharabhay13@gmail.com</a>
     
   </p>
 </p>
