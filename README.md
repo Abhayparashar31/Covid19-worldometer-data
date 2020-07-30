@@ -3,7 +3,7 @@ It scrape the whole table of data from worldometer covid 19 page.
 <br />
 <p align="center">
   <a href="https://github.com/github_Abhayparashar/Shoemate">
-    <img src="img/profile.png" alt="Logo" width="80" height="80">
+    <img src="images/profile.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Covid19 worldometer data scraper</h3>
